@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add plot_images conf_thresh parameter (#8446)
