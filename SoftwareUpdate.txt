@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
