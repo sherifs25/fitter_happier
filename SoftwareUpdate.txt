@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+added badges (#45)
