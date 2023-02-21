@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add Amazon Sagemaker Docs integrations page (#7293)
