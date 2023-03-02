@@ -1,1 +1,1 @@
-fix val each epoch
+Update Discord and Contributing Guide URLs (#9270)
