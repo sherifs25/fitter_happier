@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
