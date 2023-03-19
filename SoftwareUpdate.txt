@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
