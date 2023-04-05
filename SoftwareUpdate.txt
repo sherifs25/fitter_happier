@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Optimize function calls to method calls (#8507)
