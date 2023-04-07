@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
