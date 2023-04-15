@@ -1,1 +1,1 @@
-fix val each epoch
+Fix PNNX ubuntu -> linux bug (#7050)
