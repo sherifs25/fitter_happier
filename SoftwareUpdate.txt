@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
