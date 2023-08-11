@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
