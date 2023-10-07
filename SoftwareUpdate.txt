@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+YOLOv8 INT8 TFLite Inference Example (#7317)
