@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
