@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
