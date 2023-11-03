@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Updated SQL Query Plot Code (#8120)
