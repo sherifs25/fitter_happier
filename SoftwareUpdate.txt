@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
