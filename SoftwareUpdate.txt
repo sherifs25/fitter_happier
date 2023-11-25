@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
