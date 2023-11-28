@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
