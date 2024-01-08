@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+YOLOv8 INT8 TFLite Inference Example (#7317)
