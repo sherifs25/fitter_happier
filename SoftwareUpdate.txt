@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
